@@ -154,7 +154,7 @@ Instead of configuring a local setup, you can also use [Gitpod](https://www.gitp
 
 Click the button below. A workspace with Haskell environment will be created.
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/haskell-beginners-2022/exercises)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/steshaw/haskell-beginners-2022-exercises) (updated for forked repo)
 
 To use it on your forked repo, edit the 'Open in Gitpod' button url to `https://gitpod.io/#https://github.com/<my-github-username>/exercises`
 
